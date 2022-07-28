@@ -1,6 +1,6 @@
-array = [2, 5, 13, 7, 6, 4]
+array = [2, 5, 13, 7, 6, 4, 87, 51, 23]
 i = 0
-size = 6
+size = 9
 sum = 0
 
 while i < size:
